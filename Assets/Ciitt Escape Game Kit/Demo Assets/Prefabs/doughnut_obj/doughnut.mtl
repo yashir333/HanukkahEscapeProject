@@ -1,0 +1,38 @@
+newmtl Default
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl doughnut
+Kd 1 0 0
+Ke 0 0 0
+Ka 0.75 0.75 0.75
+Ks 0.25 0.25 0.25
+Ns 0
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd Z:Dreidel_Sufganya/Sufganya/doughnut_lwo/Around.jpg
+map_Ks Z:Dreidel_Sufganya/Sufganya/doughnut_lwo/Around.jpg
+map_bump Z:Dreidel_Sufganya/Sufganya/doughnut_lwo/Top0000.png
+bump Z:Dreidel_Sufganya/Sufganya/doughnut_lwo/Top0000.png
+
+newmtl jam
+Kd 1 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd Z:Dreidel_Sufganya/Sufganya/doughnut_lwo/Top0000.png
+

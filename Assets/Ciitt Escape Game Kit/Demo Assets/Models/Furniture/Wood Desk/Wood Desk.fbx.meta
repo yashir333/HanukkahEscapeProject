@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 28b40338db4d9aa41ac4e9198a008be0
+timeCreated: 1511151811
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Desk
+    100002: Drawer 01
+    100004: Drawer 02
+    100006: Drawer 03
+    100008: Drawers
+    100010: //RootNode
+    100012: Wood Desk Chair
+    400000: Desk
+    400002: Drawer 01
+    400004: Drawer 02
+    400006: Drawer 03
+    400008: Drawers
+    400010: //RootNode
+    400012: Wood Desk Chair
+    2300000: Desk
+    2300002: Drawer 01
+    2300004: Drawer 02
+    2300006: Drawer 03
+    2300008: Drawers
+    2300010: //RootNode
+    2300012: Wood Desk Chair
+    3300000: Desk
+    3300002: Drawer 01
+    3300004: Drawer 02
+    3300006: Drawer 03
+    3300008: Drawers
+    3300010: //RootNode
+    3300012: Wood Desk Chair
+    4300000: Drawers
+    4300002: Drawer 03
+    4300004: Drawer 02
+    4300006: Drawer 01
+    4300008: Desk
+    4300010: Wood Desk Chair
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood Desk
+    second: {fileID: 2100000, guid: f8264fe616c189543ae06e975c8b41db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood Desk Chair
+    second: {fileID: 2100000, guid: e8d30c9b197503548ade71a44f9d3c04, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

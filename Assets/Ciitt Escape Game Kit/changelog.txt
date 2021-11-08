@@ -1,0 +1,16 @@
+* ver 1.1.3
+ Fix : Removed m_disableColliderAtStart
+ Fix : Changed [Canvas] layer to UI in any scenes
+ Fix : Removed Screen.SetResolution
+ 
+ * ver 1.1.2
+ Update : SSC version to v4.2.0
+ Add : Help menus in [Tools]
+
+
+* ver 1.1.1
+ First Release
+
+
+* (ver 1.0.0)
+ (Not published)

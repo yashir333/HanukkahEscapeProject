@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Ciitt Escape Game Kit/Demo Assets/Scenes/init.unity
+    guid: c8f677fbf7f601b4f8d6ad1e85ecfa8c
+  - enabled: 1
+    path: Assets/Ciitt Escape Game Kit/Demo Assets/Scenes/main game.unity
+    guid: 97fb8acc12b8a4244a0b06ced4824e2f
+  - enabled: 1
+    path: Assets/Ciitt Escape Game Kit/Demo Assets/Scenes/title.unity
+    guid: 9fa578e24e8122f40b2dfcdc5a5a3f57
+  - enabled: 1
+    path: Assets/Ciitt Escape Game Kit/Demo Assets/Scenes/ending.unity
+    guid: 52d4cc537287759429d5abb7c80e04a7
+  - enabled: 0
+    path: Assets/Ciitt Escape Game Kit/Demo Assets/Scenes/prefab.unity
+    guid: da4cd88783bfe7e479f2eca93e8a36df
+  - enabled: 1
+    path: Assets/Ciitt Escape Game Kit/Demo Assets/Scenes/Samples/Sample Select.unity
+    guid: f734c0a9da4dad74391ee8cd524317ff
+  - enabled: 1
+    path: Assets/Ciitt Escape Game Kit/Demo Assets/Scenes/Samples/000 Click and Move.unity
+    guid: 34c17f93f667d6046b494403f1d6a525
+  - enabled: 1
+    path: Assets/Ciitt Escape Game Kit/Demo Assets/Scenes/Samples/001 Room Change.unity
+    guid: 29cd86799d22e4141abe3b92810c886e
+  - enabled: 1
+    path: Assets/Ciitt Escape Game Kit/Demo Assets/Scenes/Samples/002 Open and Close
+      Simple.unity
+    guid: bfc49d4dcc881bc4b976f3000234897b
+  - enabled: 1
+    path: Assets/Ciitt Escape Game Kit/Demo Assets/Scenes/Samples/003 Open and Close
+      Animator.unity
+    guid: 685caea7e86ffb5439586bbfb7c80ca3
+  - enabled: 1
+    path: Assets/Ciitt Escape Game Kit/Demo Assets/Scenes/Samples/004 Exit.unity
+    guid: f878b90e2498e7b46877fda5408f3cf9
+  - enabled: 1
+    path: Assets/Ciitt Escape Game Kit/Demo Assets/Scenes/Samples/100 Get Item.unity
+    guid: 6bd3653020a5d4d4ba81db3a6cc67cd1
+  - enabled: 1
+    path: Assets/Ciitt Escape Game Kit/Demo Assets/Scenes/Samples/101 Use Item.unity
+    guid: 564e488117b65df4eaa4e7ea9badd0a8
+  - enabled: 1
+    path: Assets/Ciitt Escape Game Kit/Demo Assets/Scenes/Samples/102 Item Evolution
+      1.unity
+    guid: aa46321a3c8ca11488b2bf28bed3ee24
+  - enabled: 1
+    path: Assets/Ciitt Escape Game Kit/Demo Assets/Scenes/Samples/103 Item Evolution
+      2.unity
+    guid: 17bfb52ba0c23da4caa9ee537bea330c
+  - enabled: 1
+    path: Assets/Ciitt Escape Game Kit/Demo Assets/Scenes/Samples/104 Field Object
+      Evolution 1.unity
+    guid: c6c3b3d61bccecb439d567bd1b3512ec
+  - enabled: 1
+    path: Assets/Ciitt Escape Game Kit/Demo Assets/Scenes/Samples/105 Field Object
+      Evolution 2.unity
+    guid: 7936ce46540dd074ba798f665a0add5f
+  - enabled: 1
+    path: Assets/Ciitt Escape Game Kit/Demo Assets/Scenes/Samples/106 Multiple Items.unity
+    guid: db66053f962554342ada95b613258e25
+  - enabled: 1
+    path: Assets/Ciitt Escape Game Kit/Demo Assets/Scenes/Samples/200 Number Input.unity
+    guid: bb4b69fe566421b4c86fe679f5acab2b
+  - enabled: 1
+    path: Assets/Ciitt Escape Game Kit/Demo Assets/Scenes/Samples/201 Alphabet Input.unity
+    guid: afb078ef0d57a9e48be23574a340d436
+  - enabled: 1
+    path: Assets/Ciitt Escape Game Kit/Demo Assets/Scenes/Samples/202 Color Order
+      Input.unity
+    guid: 9138e60c63bf600429e5e7ec9f680db3
+  - enabled: 1
+    path: Assets/Ciitt Escape Game Kit/Demo Assets/Scenes/Samples/203 Direction Order
+      Input.unity
+    guid: faa20cd103bb01d4db5ef32b414570e3
+  - enabled: 1
+    path: Assets/Ciitt Escape Game Kit/Demo Assets/Scenes/Samples/204 Slider Input.unity
+    guid: cc6beeb2fab28cf45b0ea11c5a726312
+  - enabled: 0
+    path: Assets/Ciitt Escape Game Kit/Kit/Scenes/base init.unity
+    guid: 884b75317f4724148b42e5ba67d3c46f
+  - enabled: 0
+    path: Assets/Ciitt Escape Game Kit/Kit/Scenes/base title.unity
+    guid: e6fe4b74d8a1416498727956bb9f6002
+  - enabled: 0
+    path: Assets/Ciitt Escape Game Kit/Kit/Scenes/base main game.unity
+    guid: 191cc49d2e0e8b745a36a523e0262069
+  - enabled: 0
+    path: Assets/Ciitt Escape Game Kit/Kit/Scenes/base ending.unity
+    guid: fd5c3a74dfc726445b79cb8de4155466

@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 713c305644194a348aad4d6a05d1e918
+timeCreated: 1511122344
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Frame 1 BK
+    100004: Frame 1 BK.001
+    100006: Frame 1 BK.037
+    100008: Frame 1 BK.038
+    100010: Frame 1R BK
+    100012: Frame 1R BK.001
+    100014: Frame 2 BK
+    100016: Frame 4 BK
+    100018: Frame 6 BK
+    100020: Frame 8 BK
+    100022: Frame Half BK
+    100024: Plane.567
+    100026: Log House Brick
+    100028: Log House Ceiling
+    100030: Log House Floor
+    100032: Log House Frame
+    100034: Log House Wall
+    400000: //RootNode
+    400002: Frame 1 BK
+    400004: Frame 1 BK.001
+    400006: Frame 1 BK.037
+    400008: Frame 1 BK.038
+    400010: Frame 1R BK
+    400012: Frame 1R BK.001
+    400014: Frame 2 BK
+    400016: Frame 4 BK
+    400018: Frame 6 BK
+    400020: Frame 8 BK
+    400022: Frame Half BK
+    400024: Plane.567
+    400026: Log House Brick
+    400028: Log House Ceiling
+    400030: Log House Floor
+    400032: Log House Frame
+    400034: Log House Wall
+    2300000: //RootNode
+    2300002: Frame 1 BK
+    2300004: Frame 1 BK.001
+    2300006: Frame 1 BK.037
+    2300008: Frame 1 BK.038
+    2300010: Frame 1R BK
+    2300012: Frame 1R BK.001
+    2300014: Frame 2 BK
+    2300016: Frame 4 BK
+    2300018: Frame 6 BK
+    2300020: Frame 8 BK
+    2300022: Frame Half BK
+    2300024: Plane.567
+    2300026: Log House Brick
+    2300028: Log House Ceiling
+    2300030: Log House Floor
+    2300032: Log House Frame
+    2300034: Log House Wall
+    3300000: //RootNode
+    3300002: Frame 1 BK
+    3300004: Frame 1 BK.001
+    3300006: Frame 1 BK.037
+    3300008: Frame 1 BK.038
+    3300010: Frame 1R BK
+    3300012: Frame 1R BK.001
+    3300014: Frame 2 BK
+    3300016: Frame 4 BK
+    3300018: Frame 6 BK
+    3300020: Frame 8 BK
+    3300022: Frame Half BK
+    3300024: Plane.567
+    3300026: Log House Brick
+    3300028: Log House Ceiling
+    3300030: Log House Floor
+    3300032: Log House Frame
+    3300034: Log House Wall
+    4300000: Plane.093
+    4300002: Floor and Ceiling.290
+    4300004: Frame 1 BK.792
+    4300006: Frame 1 BK.587
+    4300008: Frame 1 BK.073
+    4300010: Frame 1 BK.318
+    4300012: Plane.190
+    4300014: Frame 1 BK.925
+    4300016: Frame 1 BK.932
+    4300018: Plane.173
+    4300020: Frame 1 BK.1183
+    4300022: Floor and Ceiling.366
+    4300024: Floor and Ceiling.259
+    4300026: Floor and Ceiling.354
+    4300028: Plane.053
+    4300030: Frame 1 BK.1328
+    4300032: Frame 1 BK.1213
+    4300034: Plane.061
+    4300036: Frame 1 BK.1388
+    4300038: Plane.567
+    4300040: Frame Half BK
+    4300042: Frame 1 BK.037
+    4300044: Frame 1 BK.038
+    4300046: Frame 1R BK
+    4300048: Frame 1R BK.001
+    4300050: Frame 1 BK.001
+    4300052: Frame 1 BK
+    4300054: Frame 8 BK
+    4300056: Frame 2 BK
+    4300058: Frame 4 BK
+    4300060: Frame 6 BK
+    4300062: Frame 1 BK.1406
+    4300064: Floor and Ceiling.526
+    4300066: Plane.662
+    4300068: Frame 1 BK.1610
+    4300070: Plane.699
+    4300072: Floor and Ceiling.584
+    4300074: Frame 1 BK.1773
+    4300076: Frame 1 BK.1795
+    4300078: Floor and Ceiling.522
+    4300080: Frame 1 BK.1317
+    4300082: Floor and Ceiling.544
+    4300084: Frame 1 BK.1978
+    4300086: Frame 1 BK.2014
+    4300088: Log House
+    4300090: Log House Floor
+    4300092: Log House Wall
+    4300094: Log House Frame
+    4300096: Log House Ceiling
+    4300098: Log House Brick
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Log House Brick
+    second: {fileID: 2100000, guid: e8b28356ccc0f1146ad9d5bae2e80509, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Log House Ceiling
+    second: {fileID: 2100000, guid: 63096d1f000250746b89ccd6f8694415, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Log House Floor
+    second: {fileID: 2100000, guid: 4691a7695953a5e408e486bc9211b581, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Log House Frame
+    second: {fileID: 2100000, guid: 9bef814737f7ba544a27aded322e133f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Log House Wall
+    second: {fileID: 2100000, guid: d642bdb56c590894bb49151307f87cbf, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
