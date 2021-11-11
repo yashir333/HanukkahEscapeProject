@@ -1,191 +1,71 @@
 fileFormatVersion: 2
 guid: 809aa66199a3737489a52a0ecbdbc767
+timeCreated: 1511193122
+licenseType: Store
 ModelImporter:
-  serializedVersion: 20200
-  internalIDToNameTable:
-  - first:
-      1: 100000
-    second: Base
-  - first:
-      1: 100002
-    second: Door Left
-  - first:
-      1: 100004
-    second: Door Right
-  - first:
-      1: 100006
-    second: Gas Stove
-  - first:
-      1: 100008
-    second: //RootNode
-  - first:
-      1: 100010
-    second: Door Right Parent
-  - first:
-      1: 100012
-    second: Cube.001
-  - first:
-      1: 100014
-    second: Kitchen Base
-  - first:
-      1: 100016
-    second: Shelf 01
-  - first:
-      1: 100018
-    second: Shelf 01 Door
-  - first:
-      1: 100020
-    second: Shelf 02
-  - first:
-      1: 100022
-    second: Shelf 02 Door
-  - first:
-      1: 100024
-    second: Exhaust Hood
-  - first:
-      4: 400000
-    second: Base
-  - first:
-      4: 400002
-    second: Door Left
-  - first:
-      4: 400004
-    second: Door Right
-  - first:
-      4: 400006
-    second: Gas Stove
-  - first:
-      4: 400008
-    second: //RootNode
-  - first:
-      4: 400010
-    second: Door Right Parent
-  - first:
-      4: 400012
-    second: Cube.001
-  - first:
-      4: 400014
-    second: Kitchen Base
-  - first:
-      4: 400016
-    second: Shelf 01
-  - first:
-      4: 400018
-    second: Shelf 01 Door
-  - first:
-      4: 400020
-    second: Shelf 02
-  - first:
-      4: 400022
-    second: Shelf 02 Door
-  - first:
-      4: 400024
-    second: Exhaust Hood
-  - first:
-      23: 2300000
-    second: Base
-  - first:
-      23: 2300002
-    second: Door Left
-  - first:
-      23: 2300004
-    second: Door Right
-  - first:
-      23: 2300006
-    second: Gas Stove
-  - first:
-      23: 2300008
-    second: //RootNode
-  - first:
-      23: 2300010
-    second: Cube.001
-  - first:
-      23: 2300012
-    second: Kitchen Base
-  - first:
-      23: 2300014
-    second: Shelf 01
-  - first:
-      23: 2300016
-    second: Shelf 01 Door
-  - first:
-      23: 2300018
-    second: Shelf 02
-  - first:
-      23: 2300020
-    second: Shelf 02 Door
-  - first:
-      23: 2300022
-    second: Exhaust Hood
-  - first:
-      33: 3300000
-    second: Base
-  - first:
-      33: 3300002
-    second: Door Left
-  - first:
-      33: 3300004
-    second: Door Right
-  - first:
-      33: 3300006
-    second: Gas Stove
-  - first:
-      33: 3300008
-    second: //RootNode
-  - first:
-      33: 3300010
-    second: Cube.001
-  - first:
-      33: 3300012
-    second: Kitchen Base
-  - first:
-      33: 3300014
-    second: Shelf 01
-  - first:
-      33: 3300016
-    second: Shelf 01 Door
-  - first:
-      33: 3300018
-    second: Shelf 02
-  - first:
-      33: 3300020
-    second: Shelf 02 Door
-  - first:
-      33: 3300022
-    second: Exhaust Hood
-  - first:
-      43: 4300000
-    second: Gas Stove
-  - first:
-      43: 4300002
-    second: Door Right
-  - first:
-      43: 4300004
-    second: Door Left
-  - first:
-      43: 4300006
-    second: Base
-  - first:
-      43: 4300008
-    second: Shelf 02
-  - first:
-      43: 4300010
-    second: Shelf 02 Door
-  - first:
-      43: 4300012
-    second: Cube.001
-  - first:
-      43: 4300014
-    second: Kitchen Base
-  - first:
-      43: 4300016
-    second: Shelf 01
-  - first:
-      43: 4300018
-    second: Shelf 01 Door
-  - first:
-      43: 4300020
-    second: Exhaust Hood
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Base
+    100002: Door Left
+    100004: Door Right
+    100006: Gas Stove
+    100008: //RootNode
+    100010: Door Right Parent
+    100012: Cube.001
+    100014: Kitchen Base
+    100016: Shelf 01
+    100018: Shelf 01 Door
+    100020: Shelf 02
+    100022: Shelf 02 Door
+    100024: Exhaust Hood
+    400000: Base
+    400002: Door Left
+    400004: Door Right
+    400006: Gas Stove
+    400008: //RootNode
+    400010: Door Right Parent
+    400012: Cube.001
+    400014: Kitchen Base
+    400016: Shelf 01
+    400018: Shelf 01 Door
+    400020: Shelf 02
+    400022: Shelf 02 Door
+    400024: Exhaust Hood
+    2300000: Base
+    2300002: Door Left
+    2300004: Door Right
+    2300006: Gas Stove
+    2300008: //RootNode
+    2300010: Cube.001
+    2300012: Kitchen Base
+    2300014: Shelf 01
+    2300016: Shelf 01 Door
+    2300018: Shelf 02
+    2300020: Shelf 02 Door
+    2300022: Exhaust Hood
+    3300000: Base
+    3300002: Door Left
+    3300004: Door Right
+    3300006: Gas Stove
+    3300008: //RootNode
+    3300010: Cube.001
+    3300012: Kitchen Base
+    3300014: Shelf 01
+    3300016: Shelf 01 Door
+    3300018: Shelf 02
+    3300020: Shelf 02 Door
+    3300022: Exhaust Hood
+    4300000: Gas Stove
+    4300002: Door Right
+    4300004: Door Left
+    4300006: Base
+    4300008: Shelf 02
+    4300010: Shelf 02 Door
+    4300012: Cube.001
+    4300014: Kitchen Base
+    4300016: Shelf 01
+    4300018: Shelf 01 Door
+    4300020: Exhaust Hood
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -198,7 +78,7 @@ ModelImporter:
       name: Kitchen
     second: {fileID: 2100000, guid: 3118747f965562047883d597be12be76, type: 2}
   materials:
-    materialImportMode: 1
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 0
@@ -215,7 +95,6 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
-    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -230,45 +109,30 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
-    useSRGBMaterialColor: 1
-    sortHierarchyByName: 1
     importVisibility: 0
     importBlendShapes: 0
     importCameras: 0
     importLights: 0
-    fileIdsGeneration: 1
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
+    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    bakeAxisConversion: 0
-    preserveHierarchy: 0
-    skinWeightsMode: 0
-    maxBonesPerVertex: 4
-    minBoneWeight: 0.001
-    meshOptimizationFlags: 0
-    indexFormat: 0
     secondaryUVAngleDistortion: 8
-    secondaryUVAreaDistortion: 15
+    secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
-    secondaryUVMarginMethod: 0
-    secondaryUVMinLightmapResolution: 40
-    secondaryUVMinObjectScale: 1
-    secondaryUVPackMargin: 64
+    secondaryUVPackMargin: 4
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
-    normalImportMode: 1
+    normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
-    blendShapeNormalImportMode: 1
-    normalSmoothingSource: 0
-  referencedClips: []
   importAnimation: 0
+  copyAvatar: 0
   humanDescription:
-    serializedVersion: 3
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -278,17 +142,14 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
     rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
-  avatarSetup: 0
-  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
   additionalBone: 0
   userData: 
   assetBundleName: 

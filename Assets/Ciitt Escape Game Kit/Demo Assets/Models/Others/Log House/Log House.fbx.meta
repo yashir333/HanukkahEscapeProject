@@ -1,374 +1,132 @@
 fileFormatVersion: 2
 guid: 713c305644194a348aad4d6a05d1e918
+timeCreated: 1511122344
+licenseType: Store
 ModelImporter:
-  serializedVersion: 20200
-  internalIDToNameTable:
-  - first:
-      1: 100000
-    second: //RootNode
-  - first:
-      1: 100002
-    second: Frame 1 BK
-  - first:
-      1: 100004
-    second: Frame 1 BK.001
-  - first:
-      1: 100006
-    second: Frame 1 BK.037
-  - first:
-      1: 100008
-    second: Frame 1 BK.038
-  - first:
-      1: 100010
-    second: Frame 1R BK
-  - first:
-      1: 100012
-    second: Frame 1R BK.001
-  - first:
-      1: 100014
-    second: Frame 2 BK
-  - first:
-      1: 100016
-    second: Frame 4 BK
-  - first:
-      1: 100018
-    second: Frame 6 BK
-  - first:
-      1: 100020
-    second: Frame 8 BK
-  - first:
-      1: 100022
-    second: Frame Half BK
-  - first:
-      1: 100024
-    second: Plane.567
-  - first:
-      1: 100026
-    second: Log House Brick
-  - first:
-      1: 100028
-    second: Log House Ceiling
-  - first:
-      1: 100030
-    second: Log House Floor
-  - first:
-      1: 100032
-    second: Log House Frame
-  - first:
-      1: 100034
-    second: Log House Wall
-  - first:
-      4: 400000
-    second: //RootNode
-  - first:
-      4: 400002
-    second: Frame 1 BK
-  - first:
-      4: 400004
-    second: Frame 1 BK.001
-  - first:
-      4: 400006
-    second: Frame 1 BK.037
-  - first:
-      4: 400008
-    second: Frame 1 BK.038
-  - first:
-      4: 400010
-    second: Frame 1R BK
-  - first:
-      4: 400012
-    second: Frame 1R BK.001
-  - first:
-      4: 400014
-    second: Frame 2 BK
-  - first:
-      4: 400016
-    second: Frame 4 BK
-  - first:
-      4: 400018
-    second: Frame 6 BK
-  - first:
-      4: 400020
-    second: Frame 8 BK
-  - first:
-      4: 400022
-    second: Frame Half BK
-  - first:
-      4: 400024
-    second: Plane.567
-  - first:
-      4: 400026
-    second: Log House Brick
-  - first:
-      4: 400028
-    second: Log House Ceiling
-  - first:
-      4: 400030
-    second: Log House Floor
-  - first:
-      4: 400032
-    second: Log House Frame
-  - first:
-      4: 400034
-    second: Log House Wall
-  - first:
-      23: 2300000
-    second: //RootNode
-  - first:
-      23: 2300002
-    second: Frame 1 BK
-  - first:
-      23: 2300004
-    second: Frame 1 BK.001
-  - first:
-      23: 2300006
-    second: Frame 1 BK.037
-  - first:
-      23: 2300008
-    second: Frame 1 BK.038
-  - first:
-      23: 2300010
-    second: Frame 1R BK
-  - first:
-      23: 2300012
-    second: Frame 1R BK.001
-  - first:
-      23: 2300014
-    second: Frame 2 BK
-  - first:
-      23: 2300016
-    second: Frame 4 BK
-  - first:
-      23: 2300018
-    second: Frame 6 BK
-  - first:
-      23: 2300020
-    second: Frame 8 BK
-  - first:
-      23: 2300022
-    second: Frame Half BK
-  - first:
-      23: 2300024
-    second: Plane.567
-  - first:
-      23: 2300026
-    second: Log House Brick
-  - first:
-      23: 2300028
-    second: Log House Ceiling
-  - first:
-      23: 2300030
-    second: Log House Floor
-  - first:
-      23: 2300032
-    second: Log House Frame
-  - first:
-      23: 2300034
-    second: Log House Wall
-  - first:
-      33: 3300000
-    second: //RootNode
-  - first:
-      33: 3300002
-    second: Frame 1 BK
-  - first:
-      33: 3300004
-    second: Frame 1 BK.001
-  - first:
-      33: 3300006
-    second: Frame 1 BK.037
-  - first:
-      33: 3300008
-    second: Frame 1 BK.038
-  - first:
-      33: 3300010
-    second: Frame 1R BK
-  - first:
-      33: 3300012
-    second: Frame 1R BK.001
-  - first:
-      33: 3300014
-    second: Frame 2 BK
-  - first:
-      33: 3300016
-    second: Frame 4 BK
-  - first:
-      33: 3300018
-    second: Frame 6 BK
-  - first:
-      33: 3300020
-    second: Frame 8 BK
-  - first:
-      33: 3300022
-    second: Frame Half BK
-  - first:
-      33: 3300024
-    second: Plane.567
-  - first:
-      33: 3300026
-    second: Log House Brick
-  - first:
-      33: 3300028
-    second: Log House Ceiling
-  - first:
-      33: 3300030
-    second: Log House Floor
-  - first:
-      33: 3300032
-    second: Log House Frame
-  - first:
-      33: 3300034
-    second: Log House Wall
-  - first:
-      43: 4300000
-    second: Plane.093
-  - first:
-      43: 4300002
-    second: Floor and Ceiling.290
-  - first:
-      43: 4300004
-    second: Frame 1 BK.792
-  - first:
-      43: 4300006
-    second: Frame 1 BK.587
-  - first:
-      43: 4300008
-    second: Frame 1 BK.073
-  - first:
-      43: 4300010
-    second: Frame 1 BK.318
-  - first:
-      43: 4300012
-    second: Plane.190
-  - first:
-      43: 4300014
-    second: Frame 1 BK.925
-  - first:
-      43: 4300016
-    second: Frame 1 BK.932
-  - first:
-      43: 4300018
-    second: Plane.173
-  - first:
-      43: 4300020
-    second: Frame 1 BK.1183
-  - first:
-      43: 4300022
-    second: Floor and Ceiling.366
-  - first:
-      43: 4300024
-    second: Floor and Ceiling.259
-  - first:
-      43: 4300026
-    second: Floor and Ceiling.354
-  - first:
-      43: 4300028
-    second: Plane.053
-  - first:
-      43: 4300030
-    second: Frame 1 BK.1328
-  - first:
-      43: 4300032
-    second: Frame 1 BK.1213
-  - first:
-      43: 4300034
-    second: Plane.061
-  - first:
-      43: 4300036
-    second: Frame 1 BK.1388
-  - first:
-      43: 4300038
-    second: Plane.567
-  - first:
-      43: 4300040
-    second: Frame Half BK
-  - first:
-      43: 4300042
-    second: Frame 1 BK.037
-  - first:
-      43: 4300044
-    second: Frame 1 BK.038
-  - first:
-      43: 4300046
-    second: Frame 1R BK
-  - first:
-      43: 4300048
-    second: Frame 1R BK.001
-  - first:
-      43: 4300050
-    second: Frame 1 BK.001
-  - first:
-      43: 4300052
-    second: Frame 1 BK
-  - first:
-      43: 4300054
-    second: Frame 8 BK
-  - first:
-      43: 4300056
-    second: Frame 2 BK
-  - first:
-      43: 4300058
-    second: Frame 4 BK
-  - first:
-      43: 4300060
-    second: Frame 6 BK
-  - first:
-      43: 4300062
-    second: Frame 1 BK.1406
-  - first:
-      43: 4300064
-    second: Floor and Ceiling.526
-  - first:
-      43: 4300066
-    second: Plane.662
-  - first:
-      43: 4300068
-    second: Frame 1 BK.1610
-  - first:
-      43: 4300070
-    second: Plane.699
-  - first:
-      43: 4300072
-    second: Floor and Ceiling.584
-  - first:
-      43: 4300074
-    second: Frame 1 BK.1773
-  - first:
-      43: 4300076
-    second: Frame 1 BK.1795
-  - first:
-      43: 4300078
-    second: Floor and Ceiling.522
-  - first:
-      43: 4300080
-    second: Frame 1 BK.1317
-  - first:
-      43: 4300082
-    second: Floor and Ceiling.544
-  - first:
-      43: 4300084
-    second: Frame 1 BK.1978
-  - first:
-      43: 4300086
-    second: Frame 1 BK.2014
-  - first:
-      43: 4300088
-    second: Log House
-  - first:
-      43: 4300090
-    second: Log House Floor
-  - first:
-      43: 4300092
-    second: Log House Wall
-  - first:
-      43: 4300094
-    second: Log House Frame
-  - first:
-      43: 4300096
-    second: Log House Ceiling
-  - first:
-      43: 4300098
-    second: Log House Brick
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Frame 1 BK
+    100004: Frame 1 BK.001
+    100006: Frame 1 BK.037
+    100008: Frame 1 BK.038
+    100010: Frame 1R BK
+    100012: Frame 1R BK.001
+    100014: Frame 2 BK
+    100016: Frame 4 BK
+    100018: Frame 6 BK
+    100020: Frame 8 BK
+    100022: Frame Half BK
+    100024: Plane.567
+    100026: Log House Brick
+    100028: Log House Ceiling
+    100030: Log House Floor
+    100032: Log House Frame
+    100034: Log House Wall
+    400000: //RootNode
+    400002: Frame 1 BK
+    400004: Frame 1 BK.001
+    400006: Frame 1 BK.037
+    400008: Frame 1 BK.038
+    400010: Frame 1R BK
+    400012: Frame 1R BK.001
+    400014: Frame 2 BK
+    400016: Frame 4 BK
+    400018: Frame 6 BK
+    400020: Frame 8 BK
+    400022: Frame Half BK
+    400024: Plane.567
+    400026: Log House Brick
+    400028: Log House Ceiling
+    400030: Log House Floor
+    400032: Log House Frame
+    400034: Log House Wall
+    2300000: //RootNode
+    2300002: Frame 1 BK
+    2300004: Frame 1 BK.001
+    2300006: Frame 1 BK.037
+    2300008: Frame 1 BK.038
+    2300010: Frame 1R BK
+    2300012: Frame 1R BK.001
+    2300014: Frame 2 BK
+    2300016: Frame 4 BK
+    2300018: Frame 6 BK
+    2300020: Frame 8 BK
+    2300022: Frame Half BK
+    2300024: Plane.567
+    2300026: Log House Brick
+    2300028: Log House Ceiling
+    2300030: Log House Floor
+    2300032: Log House Frame
+    2300034: Log House Wall
+    3300000: //RootNode
+    3300002: Frame 1 BK
+    3300004: Frame 1 BK.001
+    3300006: Frame 1 BK.037
+    3300008: Frame 1 BK.038
+    3300010: Frame 1R BK
+    3300012: Frame 1R BK.001
+    3300014: Frame 2 BK
+    3300016: Frame 4 BK
+    3300018: Frame 6 BK
+    3300020: Frame 8 BK
+    3300022: Frame Half BK
+    3300024: Plane.567
+    3300026: Log House Brick
+    3300028: Log House Ceiling
+    3300030: Log House Floor
+    3300032: Log House Frame
+    3300034: Log House Wall
+    4300000: Plane.093
+    4300002: Floor and Ceiling.290
+    4300004: Frame 1 BK.792
+    4300006: Frame 1 BK.587
+    4300008: Frame 1 BK.073
+    4300010: Frame 1 BK.318
+    4300012: Plane.190
+    4300014: Frame 1 BK.925
+    4300016: Frame 1 BK.932
+    4300018: Plane.173
+    4300020: Frame 1 BK.1183
+    4300022: Floor and Ceiling.366
+    4300024: Floor and Ceiling.259
+    4300026: Floor and Ceiling.354
+    4300028: Plane.053
+    4300030: Frame 1 BK.1328
+    4300032: Frame 1 BK.1213
+    4300034: Plane.061
+    4300036: Frame 1 BK.1388
+    4300038: Plane.567
+    4300040: Frame Half BK
+    4300042: Frame 1 BK.037
+    4300044: Frame 1 BK.038
+    4300046: Frame 1R BK
+    4300048: Frame 1R BK.001
+    4300050: Frame 1 BK.001
+    4300052: Frame 1 BK
+    4300054: Frame 8 BK
+    4300056: Frame 2 BK
+    4300058: Frame 4 BK
+    4300060: Frame 6 BK
+    4300062: Frame 1 BK.1406
+    4300064: Floor and Ceiling.526
+    4300066: Plane.662
+    4300068: Frame 1 BK.1610
+    4300070: Plane.699
+    4300072: Floor and Ceiling.584
+    4300074: Frame 1 BK.1773
+    4300076: Frame 1 BK.1795
+    4300078: Floor and Ceiling.522
+    4300080: Frame 1 BK.1317
+    4300082: Floor and Ceiling.544
+    4300084: Frame 1 BK.1978
+    4300086: Frame 1 BK.2014
+    4300088: Log House
+    4300090: Log House Floor
+    4300092: Log House Wall
+    4300094: Log House Frame
+    4300096: Log House Ceiling
+    4300098: Log House Brick
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -396,7 +154,7 @@ ModelImporter:
       name: Log House Wall
     second: {fileID: 2100000, guid: d642bdb56c590894bb49151307f87cbf, type: 2}
   materials:
-    materialImportMode: 1
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 0
@@ -413,7 +171,6 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
-    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -428,45 +185,30 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
-    useSRGBMaterialColor: 1
-    sortHierarchyByName: 1
     importVisibility: 0
     importBlendShapes: 0
     importCameras: 0
     importLights: 0
-    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
+    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    bakeAxisConversion: 0
-    preserveHierarchy: 0
-    skinWeightsMode: 0
-    maxBonesPerVertex: 4
-    minBoneWeight: 0.001
-    meshOptimizationFlags: 0
-    indexFormat: 0
     secondaryUVAngleDistortion: 8
-    secondaryUVAreaDistortion: 15
+    secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
-    secondaryUVMarginMethod: 0
-    secondaryUVMinLightmapResolution: 40
-    secondaryUVMinObjectScale: 1
-    secondaryUVPackMargin: 64
+    secondaryUVPackMargin: 4
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
-    normalImportMode: 1
+    normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
-    blendShapeNormalImportMode: 1
-    normalSmoothingSource: 0
-  referencedClips: []
   importAnimation: 0
+  copyAvatar: 0
   humanDescription:
-    serializedVersion: 3
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -476,17 +218,14 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
     rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
-  avatarSetup: 0
-  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
   additionalBone: 0
   userData: 
   assetBundleName: 

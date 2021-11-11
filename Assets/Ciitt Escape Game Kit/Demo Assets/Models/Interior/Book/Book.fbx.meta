@@ -1,101 +1,41 @@
 fileFormatVersion: 2
 guid: 669f17b81321a87488eb7e543d28d7d9
+timeCreated: 1512983173
+licenseType: Store
 ModelImporter:
-  serializedVersion: 20200
-  internalIDToNameTable:
-  - first:
-      1: 100000
-    second: Bone
-  - first:
-      1: 100002
-    second: Bone Root
-  - first:
-      1: 100004
-    second: Bone_L
-  - first:
-      1: 100006
-    second: Bone_L.001
-  - first:
-      1: 100008
-    second: Bone_L.001_end
-  - first:
-      1: 100010
-    second: Bone_R
-  - first:
-      1: 100012
-    second: Bone_R.001
-  - first:
-      1: 100014
-    second: Bone_R.001_end
-  - first:
-      1: 100016
-    second: //RootNode
-  - first:
-      1: 100018
-    second: Book
-  - first:
-      1: 100020
-    second: Camera
-  - first:
-      1: 100022
-    second: Lamp
-  - first:
-      4: 400000
-    second: Bone
-  - first:
-      4: 400002
-    second: Bone Root
-  - first:
-      4: 400004
-    second: Bone_L
-  - first:
-      4: 400006
-    second: Bone_L.001
-  - first:
-      4: 400008
-    second: Bone_L.001_end
-  - first:
-      4: 400010
-    second: Bone_R
-  - first:
-      4: 400012
-    second: Bone_R.001
-  - first:
-      4: 400014
-    second: Bone_R.001_end
-  - first:
-      4: 400016
-    second: //RootNode
-  - first:
-      4: 400018
-    second: Book
-  - first:
-      4: 400020
-    second: Camera
-  - first:
-      4: 400022
-    second: Lamp
-  - first:
-      20: 2000000
-    second: Camera
-  - first:
-      43: 4300000
-    second: Book
-  - first:
-      74: 7400000
-    second: Close
-  - first:
-      74: 7400002
-    second: Open
-  - first:
-      95: 9500000
-    second: //RootNode
-  - first:
-      108: 10800000
-    second: Lamp
-  - first:
-      137: 13700000
-    second: Book
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone Root
+    100004: Bone_L
+    100006: Bone_L.001
+    100008: Bone_L.001_end
+    100010: Bone_R
+    100012: Bone_R.001
+    100014: Bone_R.001_end
+    100016: //RootNode
+    100018: Book
+    100020: Camera
+    100022: Lamp
+    400000: Bone
+    400002: Bone Root
+    400004: Bone_L
+    400006: Bone_L.001
+    400008: Bone_L.001_end
+    400010: Bone_R
+    400012: Bone_R.001
+    400014: Bone_R.001_end
+    400016: //RootNode
+    400018: Book
+    400020: Camera
+    400022: Lamp
+    2000000: Camera
+    4300000: Book
+    7400000: Close
+    7400002: Open
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: Book
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -103,7 +43,7 @@ ModelImporter:
       name: Book
     second: {fileID: 2100000, guid: e278d1dfe1dec1249a336ae7e4217a9c, type: 2}
   materials:
-    materialImportMode: 1
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 0
@@ -120,7 +60,6 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
-    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -132,7 +71,6 @@ ModelImporter:
     - serializedVersion: 16
       name: Close
       takeName: Bone Root|ArmatureAction
-      internalID: 0
       firstFrame: 0
       lastFrame: 1
       wrapMode: 0
@@ -161,7 +99,6 @@ ModelImporter:
     - serializedVersion: 16
       name: Open
       takeName: Bone Root|ArmatureAction
-      internalID: 0
       firstFrame: 2
       lastFrame: 29
       wrapMode: 0
@@ -193,45 +130,30 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
-    useSRGBMaterialColor: 1
-    sortHierarchyByName: 1
     importVisibility: 0
     importBlendShapes: 0
     importCameras: 0
     importLights: 0
-    fileIdsGeneration: 1
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
+    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    bakeAxisConversion: 0
-    preserveHierarchy: 0
-    skinWeightsMode: 0
-    maxBonesPerVertex: 4
-    minBoneWeight: 0.001
-    meshOptimizationFlags: 0
-    indexFormat: 0
     secondaryUVAngleDistortion: 8
-    secondaryUVAreaDistortion: 15
+    secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
-    secondaryUVMarginMethod: 0
-    secondaryUVMinLightmapResolution: 40
-    secondaryUVMinObjectScale: 1
-    secondaryUVPackMargin: 64
+    secondaryUVPackMargin: 4
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
-    normalImportMode: 1
+    normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
-    blendShapeNormalImportMode: 1
-    normalSmoothingSource: 0
-  referencedClips: []
   importAnimation: 1
+  copyAvatar: 0
   humanDescription:
-    serializedVersion: 3
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -241,17 +163,14 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
     rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 1
-  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
   additionalBone: 0
   userData: 
   assetBundleName: 
