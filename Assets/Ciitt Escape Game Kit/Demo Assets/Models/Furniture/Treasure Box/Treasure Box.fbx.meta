@@ -1,22 +1,44 @@
 fileFormatVersion: 2
 guid: 176a82e9134763b4e8592749a98d8d92
-timeCreated: 1511149473
-licenseType: Store
 ModelImporter:
-  serializedVersion: 22
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: TreasureBox_Bottom
-    100004: TreasureBox_Top
-    400000: //RootNode
-    400002: TreasureBox_Bottom
-    400004: TreasureBox_Top
-    2300000: TreasureBox_Bottom
-    2300002: TreasureBox_Top
-    3300000: TreasureBox_Bottom
-    3300002: TreasureBox_Top
-    4300000: TreasureBox_Top
-    4300002: TreasureBox_Bottom
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: TreasureBox_Bottom
+  - first:
+      1: 100004
+    second: TreasureBox_Top
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: TreasureBox_Bottom
+  - first:
+      4: 400004
+    second: TreasureBox_Top
+  - first:
+      23: 2300000
+    second: TreasureBox_Bottom
+  - first:
+      23: 2300002
+    second: TreasureBox_Top
+  - first:
+      33: 3300000
+    second: TreasureBox_Bottom
+  - first:
+      33: 3300002
+    second: TreasureBox_Top
+  - first:
+      43: 4300000
+    second: TreasureBox_Top
+  - first:
+      43: 4300002
+    second: TreasureBox_Bottom
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -24,7 +46,7 @@ ModelImporter:
       name: TreasureBox
     second: {fileID: 2100000, guid: b958dbfdf2fbfae4ab6beb4b0ae16458, type: 2}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 0
@@ -41,6 +63,7 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -55,30 +78,45 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
     importVisibility: 0
     importBlendShapes: 0
     importCameras: 0
     importLights: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
-    secondaryUVAreaDistortion: 15.000001
+    secondaryUVAreaDistortion: 15
     secondaryUVHardAngle: 88
-    secondaryUVPackMargin: 4
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 7
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -88,14 +126,17 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
   additionalBone: 0
   userData: 
   assetBundleName: 
