@@ -1,6 +1,6 @@
 mergeInto(LibraryManager.library, {
 
-    SaveDataJS: function() {
+    saveDataJS: function() {
 		$.ajax({
             type: "POST",
             cache: false,

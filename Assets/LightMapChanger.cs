@@ -11,7 +11,7 @@ public class LightMapChanger : MonoBehaviour
         arr = FindObjectsOfType<MeshRenderer>();
         foreach(MeshRenderer m in arr) 
         {
-            m.scaleInLightmap = 5;
+            //m.scaleInLightmap = 5;
         }
     }
 }
